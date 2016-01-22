@@ -9,3 +9,7 @@ A)staging has files in a certains state which u can commit. We may not want to a
 Q)How can you use the staging area to make sure you have one commit per logical change?
 
 A)we can add only those files which make sense for one logical change. The check that with git diff --staged and commit them. Contiue doing that for each logical change.
+
+Q)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A)Making a new feature, no commit till its not finished. branch doesnt mess up the original code.
