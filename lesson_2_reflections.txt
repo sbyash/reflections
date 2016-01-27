@@ -17,3 +17,8 @@ A)Making a new feature, no commit till its not finished. branch doesnt mess up t
 Q)How do the diagrams help you visualize the branch structure?
 
 A)We know where we are and what is reachable and what is not.
+
+Q)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A)Result is that current branch is updated with code of the branch.
+We reprsent it in the diagram the way we do, is because it has two parents.
