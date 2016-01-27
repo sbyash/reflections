@@ -22,3 +22,8 @@ Q)What is the result of merging two branches together? Why do we represent it in
 
 A)Result is that current branch is updated with code of the branch.
 We reprsent it in the diagram the way we do, is because it has two parents.
+
+Q)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A)pros: we dont have to merge, less headache
+cons: automatic merge may be wrong
