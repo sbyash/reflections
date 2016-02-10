@@ -3,3 +3,8 @@ A)To keep one public always working copy
 
 Q)Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A)So that you can stay consistent with thing you are working on, and also some commits may break the stable code.
+
+Q)Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A)Forks are used for github.com only when one wants to use the code from anothe repo but does not have permission.
+Clone is used for cloning repos to local machine.
+Branches are used to work on a feature and keep the master branch intact.
