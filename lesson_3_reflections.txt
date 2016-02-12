@@ -11,3 +11,8 @@ Branches are used to work on a feature and keep the master branch intact.
 
 Q)What is the benefit of having a copy of the last known state of the remote stored locally?
 A)so that we can work offline and have the remote changes as well as the local changes int he local machine.
+
+Q)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A)We would have to send manual copies which would make it very hard.
+git is easier.
